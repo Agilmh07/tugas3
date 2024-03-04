@@ -1,0 +1,153 @@
+body {
+  background-color: #3f352d;
+  width: 960px;
+  margin: auto;
+}
+
+header {
+  background-color: #bda18c;
+}
+
+header h1 {
+  text-align: center;
+}
+
+header nav {
+  text-align: center;
+}
+
+header nav a {
+  margin-left: 8px;
+}
+
+header nav a button {
+  padding: 5px;
+  background-color: #e6dcd4;
+  border: none;
+  border-radius: 10px;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+header nav a button:hover {
+  background-color: #d1c1b3;
+  opacity: 80%;
+}
+
+#home {
+  background-color: #b4a79e;
+  padding: 40 0 100 0;
+}
+
+main h2 {
+  text-align: center;
+}
+
+main div.profile img {
+  float: left;
+  border-radius: 50%;
+  line-height: 10px;
+  margin-left: 20px;
+}
+
+main div.biodata {
+  margin-left: 30px;
+  width: 500px;
+  display: inline-block;
+}
+div.biodata p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#Hobby {
+  background-color: #e6dcd4;
+  padding: 40 0 200 0;
+}
+
+div.hobi div.hobi1 {
+  background-color: #3f352d;
+  margin-left: 20px;
+  padding: 10 10 10 10;
+  display: inline-block;
+  border-radius: 10px;
+}
+
+div.hobi div.hobi1 img {
+  width: 300px;
+  border-radius: 10px;
+}
+
+div.hobi div.deskripsi1 {
+  width: 500px;
+  float: right;
+  margin-right: 30px;
+  padding: 10 20 20 20;
+}
+div.hobi div p {
+  font-family: "Courier New", Courier, monospace;
+}
+
+div.hobi div.hobi2 {
+  background-color: #3f352d;
+  margin-left: 20px;
+  padding: 10 10 10 10;
+  display: inline-block;
+  border-radius: 10px;
+  margin-top: 30px;
+}
+div.hobi div.hobi2 img {
+  width: 300px;
+  border-radius: 10px;
+}
+
+div.hobi div.deskripsi2 {
+  width: 500px;
+  float: right;
+  margin-right: 30px;
+  padding: 40 20 20 20;
+}
+
+div.hobi div.hobi3 {
+  background-color: #3f352d;
+  margin-left: 20px;
+  padding: 10 10 10 10;
+  display: inline-block;
+  border-radius: 10px;
+  margin-top: 30px;
+}
+div.hobi div.hobi3 img {
+  width: 300px;
+  border-radius: 10px;
+}
+
+div.hobi div.deskripsi3 {
+  width: 500px;
+  float: right;
+  margin-right: 30px;
+  padding: 45 20 20 20;
+}
+
+div.hobi div.hobi4 {
+  background-color: #3f352d;
+  margin-left: 20px;
+  padding: 10 10 10 10;
+  display: inline-block;
+  border-radius: 10px;
+  margin-top: 30px;
+}
+div.hobi div.hobi4 img {
+  width: 300px;
+  border-radius: 10px;
+}
+
+div.hobi div.deskripsi4 {
+  width: 500px;
+  float: right;
+  margin-right: 30px;
+  padding: 50 20 20 20;
+}
+
+#gallery {
+  background-color: black;
+  padding: 10 10 100 10;
+}
